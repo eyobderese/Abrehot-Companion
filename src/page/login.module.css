@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  margin-top: 4rem;
+  background-color: white;
+}
+
+.picture {
+  width: 50%;
+  background: url("../assets/Sculpture-at-Abrehot.jpg") no-repeat center center; /* replace with your image path */
+  background-size: cover;
+}
+
+.form {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem;
+}

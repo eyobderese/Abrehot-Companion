@@ -1,0 +1,12 @@
+.conatiner {
+  position: fixed;
+  top: 20%;
+  left: 0;
+  padding-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #231d39;
+  width: 8%;
+  height: 60%;
+}

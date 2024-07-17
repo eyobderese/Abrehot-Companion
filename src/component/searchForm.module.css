@@ -1,0 +1,23 @@
+.input {
+  outline: none;
+  border: none;
+  border-radius: 30px;
+}
+
+.searchButton {
+  border: none;
+  border-radius: 30px;
+
+  background-color: none;
+  outline: none;
+}
+
+.form_box {
+  width: 40%;
+  border: 2px gray solid;
+  border-radius: 30px;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+}
