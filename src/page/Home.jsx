@@ -3,6 +3,8 @@ import BookContainer from '../component/bookContainer';
 import SideBar from '../component/sideBar';
 import Nav from '../component/nav';
 import ChatBot from '../component/chatBoot';
+import style from './Home.module.css'
+import robot from '../assets/robot.png'
 
 
 
